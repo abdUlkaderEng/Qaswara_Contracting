@@ -168,7 +168,7 @@ margin-right: 6vw;
 }
 .white-logo{
     margin-right: 74%;
-    width: 25vw;
+    width: 45vw;
     
 }
 .number{
@@ -185,7 +185,7 @@ margin-right: 6vw;
     margin-right: -0.9rem;
     width: 100%;
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.6rem;
     background-color: #045c26;
    }
 
@@ -286,6 +286,9 @@ border-radius: 20px;
         .locatin-section{
             
         grid-column: 1/span 3; 
+        }
+        .white-logo{
+            width:25vw
         }
       }
      
